@@ -26,11 +26,13 @@
 
 - [@aokimi0](https://github.com/aokimi0)
 - [@LiaojunChen](https://github.com/LiaojunChen)
+- [@hht421](https://github.com/hht421)
+- [@ym-guan](https://github.com/ym-guan)
 
 现任志愿者团队
 
 - [@aokimi0](https://github.com/aokimi0)
-
+- [@hht421](https://github.com/hht421)
 
 <!--
 
