@@ -1,5 +1,10 @@
 # NKU-WIKI 南开知识共同体
 
+## 🚀 立即体验
+
+- 🔗 网站：https://coze.nankai.edu.cn/product/llm/chat/cuh2gospkp8br093l2eg
+- 🔎 微信公众号：nkuwiki
+  
 ## 🎯 愿景与目标
 
 我们致力于构建**南开知识共同体**，践行 **开源·共治·普惠** 三位一体价值体系  
