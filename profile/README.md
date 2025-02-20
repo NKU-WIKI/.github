@@ -3,7 +3,8 @@
 ## 🚀 立即体验
 
 - 🔗 网站：https://coze.nankai.edu.cn/product/llm/chat/cuh2gospkp8br093l2eg
-- 🔎 微信服务号：nkuwiki知识社区（旧号nkuwiki已弃用）
+- 🔎 微信服务号：nkuwiki知识社区（无限制，用户体验更好）
+- 🗝️ 微信订阅号 nkuwiki（有消极回复限制）
   
 ## 🎯 愿景与目标
 
