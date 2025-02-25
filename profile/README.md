@@ -2,7 +2,9 @@
 
 ## 🚀 立即体验
 
-- 🔗 网站：https://coze.nankai.edu.cn/product/llm/chat/cuh2gospkp8br093l2eg
+- 🔗 [Coze](https://www.coze.cn/store/agent/7473464038963036186?bot_id=true&bid=6ffcvvj3k6g0j)
+- 🔗 [Hiagent](https://coze.nankai.edu.cn/product/llm/chat/cuh2gospkp8br093l2eg)
+- 🤖 企微机器人参考[三步将nkuwiki bot添加到你的群](https://nankai.feishu.cn/wiki/UT4EwiPxmisBdOk3d1ycnGR2nve?from=from_copylink)
 - 🔎 微信服务号：nkuwiki知识社区（无限制，用户体验更好）
 - 🗝️ 微信订阅号 nkuwiki（有消极回复限制）
   
@@ -33,12 +35,13 @@
 - [@aokimi0](https://github.com/aokimi0)
 - [@LiaojunChen](https://github.com/LiaojunChen)
 - [@hht421](https://github.com/hht421)
-- [@ym-guan](https://github.com/ym-guan)
+- [@Frederick2313072](https://github.com/Frederick2313072)
 
 现任志愿者团队
 
 - [@aokimi0](https://github.com/aokimi0)
 - [@hht421](https://github.com/hht421)
+- [@hengdaoye50](https://github.com/hengdaoye50)
 
 <!--
 
